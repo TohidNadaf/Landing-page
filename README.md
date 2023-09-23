@@ -1,4 +1,4 @@
-# Landing-page
+# Landing-page project-2
 Project Documentation: Landing Page
 
 1. **Project Overview**:
